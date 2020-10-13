@@ -1,2 +1,2 @@
 <?php
-require ("view/ViewUser.php");
+require ("view/ViewUser.html");
